@@ -1,0 +1,33 @@
+{
+  "id": "bf6c59e2-31b4-4e09-9d5c-1023c7ab03e8",
+  "name": "DXC AMC93 Customer Pickup",
+  "publisher": "DXC",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [
+    {
+      "appId": "3760f97a-1b1e-42f3-87b8-06a3bed75bcf",
+      "name": "DXC_PROJECT",
+      "publisher": "DXC",   
+      "version": "1.0.0.8"
+    }    
+  ],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 50149
+  },
+  "showMyCode": true,
+  "breakonerror" : true,
+  "runtime": "1.0"
+}
